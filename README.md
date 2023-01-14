@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/adi5810/TalentNext%20Project%202/_apis/build/status/mslearn-tailspin-spacegame-web?branchName=main)](https://dev.azure.com/adi5810/TalentNext%20Project%202/_build/latest?definitionId=22&branchName=main)
 
 # Contributing
 
