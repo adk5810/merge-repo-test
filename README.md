@@ -17,3 +17,12 @@ Fetch the tags for all repos
 git fetch web --tags
 git fetch web-deploy --tags
 git fetch web-models --tags
+
+Step 3:
+Create new branches from remote mains of all 3 repos
+main-web
+git checkout -b main-web remotes/web/main
+main-web-deploy
+git checkout -b main-web-deploy remotes/web-deploy/main
+main-web-models 
+git checkout -b main-web-models remotes/web-models/main
